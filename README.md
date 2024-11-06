@@ -39,5 +39,14 @@ The **Product List App** is designed to help users manage a list of products, of
 
 2. Navigate to the project directory:
    ```bash
-   cd product-list-app
+   cd product-list
    ```
+3. Install dependencies
+    ```bash
+   npm install
+   ```
+4. If you don't have Husky and lint-staged installed, initialize them:
+    ```bash
+   npm run prepare
+   ```
+5. 
